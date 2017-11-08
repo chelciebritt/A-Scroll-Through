@@ -1,0 +1,60 @@
+nav {
+  height: 140px;
+  line-height: 140px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+nav i,
+nav [class^='mdi-'],
+nav [class*='mdi-'],
+nav i.material-icons {
+  height: 140px;
+  line-height: 140px;
+}
+nav .button-collapse i {
+  height: 140px;
+  line-height: 140px;
+}
+@media only screen and (min-width: 601px) {
+  nav,
+  nav .nav-wrapper i,
+  nav a.button-collapse,
+  nav a.button-collapse i {
+    height: 140px;
+    line-height: 140px;
+  }
+}
+#logo {
+  padding-top: 50px;
+}
+
+.footer-copyright {
+  background-color: black;
+}
+iframe {
+  padding-top: 20px;
+  padding-bottom: 16px;
+}
+h5 {
+  font-family: 'Roboto', sans-serif;
+}
+.images {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
