@@ -9,13 +9,12 @@ art movement.  It highlights how the arts evolved as a response to the surroundi
 * [JavaScript](https://www.javascript.com/)
 * [TimelineJS](https://timeline.knightlab.com/)
 
-## Demo
+## Links
 
-###### Video
-
+[Web App](https://astma-7d413.firebaseapp.com/)
 [Live Demo](https://www.youtube.com/watch?v=OZcWhkOkhkM&t=26s)
 
-###### Images
+##Images
 
 ![Screenshot1](images/art1.png "screenshots of app")
 ![Screenshot2](images/art2.png "screenshots of app")
