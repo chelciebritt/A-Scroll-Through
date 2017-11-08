@@ -11,7 +11,11 @@ art movement.  It highlights how the arts evolved as a response to the surroundi
 
 ## Demo
 
-* [Live Demo](https://www.youtube.com/watch?v=OZcWhkOkhkM&t=26s)
+###### Video
+
+[Live Demo](https://www.youtube.com/watch?v=OZcWhkOkhkM&t=26s)
+
+###### Images
 
 ![Screenshot1](images/art1.png "screenshots of app")
 ![Screenshot2](images/art2.png "screenshots of app")
